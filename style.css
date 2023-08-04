@@ -1,0 +1,99 @@
+/* Reset and basic styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  /* Global styles */
+  body {
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  /* Navigation bar */
+  header {
+    background-color: #222;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  /* Main content sections */
+  section {
+    padding: 40px;
+  }
+  
+  /* Heading styles */
+  h1, h2 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 20px;
+  }
+  
+  /* Realtor section */
+  #realtor {
+    background-color: #fff;
+  }
+  
+  /* Engineer section */
+  #coding {
+    background-color: #f5f5f5;
+  }
+  
+  /* Contact section */
+  #contact {
+    background-color: #fff;
+  }
+  
+  /* About Me section */
+  #about {
+    background-color: #f5f5f5;
+  }
+  
+  /* Portfolio section */
+  #portfolio {
+    background-color: #fff;
+  }
+  
+  /* Testimonials section */
+  #testimonials {
+    background-color: #f5f5f5;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  /* Links */
+  a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Form styles */
+  input[type="text"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"] {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    /* Adjust styles for smaller screens */
+  }
