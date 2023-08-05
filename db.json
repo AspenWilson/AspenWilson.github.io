@@ -1,0 +1,208 @@
+{
+    "coding":[
+        {
+            "id": 1,
+            "image": "https://miro.medium.com/v2/resize:fit:640/1*vK2Mp5KVYnoQ0gWRIzfyAg.jpeg",
+            "title": "Unleashing the Power of Python: Building Command-Line Interfaces (CLIs)",
+            "snippet": "Command-Line Interfaces (CLIs) have been a fundamental tool for developers and system administrators since the early days of computing…",
+            "iframe": "https://medium.com/@aspen.wilson/unleashing-the-power-of-python-building-command-line-interfaces-clis-c70083527695"
+          },
+          {
+            "id": 2,
+            "image": "https://miro.medium.com/v2/resize:fit:518/1*a2tuTqyLqo2uJDik48myMw.jpeg",
+            "title": "Mastering Python Fundamentals: A Journey Through Core Concepts and Practical Applications",
+            "snippet": "With its versatility and readability, Python has become one of the most popular programming languages in the world. Whether you are a…",
+            "iframe": "https://medium.com/@aspen.wilson/mastering-python-fundamentals-a-journey-through-core-concepts-and-practical-applications-39730ad803e"
+          },
+          {
+            "id": 3,
+            "image": "https://miro.medium.com/v2/resize:fit:600/format:webp/1*CjHcNejEsoBXMvnTAo_O_Q.jpeg",
+            "title": "React's Common Hooks: useState, useEffect, & useRef",
+            "snippet": "React is a powerful and widely used front-end library for building web applications. It provides developers with several hooks to help…",
+            "iframe": "https://medium.com/@aspen.wilson/reacts-common-hooks-usestate-useeffect-useref-31a346f897c5"
+          },
+          {
+            "id": 4,
+            "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*NYGEiC-81t3q-0WnAhjXTw.jpeg",
+            "title": "Class Syntax vs. Function Syntax in React: Choosing the Right Approach",
+            "snippet": "When building React applications, developers have a choice between using class syntax and function syntax for defining components. Both…",
+            "iframe": "https://medium.com/@aspen.wilson/class-syntax-vs-function-syntax-in-react-choosing-the-right-approach-3749905facf7"
+          },
+          {
+            "id": 5,
+            "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*FpZ-j3CCexgpvAiV8qYe7A.jpeg",
+            "title": "\"Ah-Ha\" Moments During my Phase-1 Project",
+            "snippet": "\"What have I done?\"",
+            "iframe": "https://medium.com/@aspen.wilson/ah-ha-moments-during-my-phase-1-project-b16a21cb1a77"
+          },
+          {
+            "id": 6,
+            "image": "https://miro.medium.com/v2/resize:fit:618/format:webp/1*q2E84hJIzqlbNF7RfxTewg.jpeg",
+            "title": "Revisiting the GitHub Search App Lab",
+            "snippet": "As Phase 1 draws to a close, I find myself appreciating how far I've come. These first couple of months have been a huge learning curve for…",
+            "iframe": "https://medium.com/@aspen.wilson/revisiting-the-github-search-app-lab-646a205747f2"
+          }
+    ],
+    "realty": [
+        {
+            "id": 1,
+            "image": "https://static.wixstatic.com/media/2b5451_1509c66d93e541059120ab7ce2b10263~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_1509c66d93e541059120ab7ce2b10263~mv2.png",
+            "title": "Today's Housing Inventory Is A Sweet Spot for Sellers",
+            "snippet": "One of the biggest challenges in the housing market right now is how few homes there are for sale compared to the number of people who...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/today-s-housing-inventory-is-a-sweet-spot-for-sellers"
+          },
+          {
+            "id": 2,
+            "image": "https://static.wixstatic.com/media/2b5451_51d2e684381a4bd88a9d1843736b678c~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_51d2e684381a4bd88a9d1843736b678c~mv2.png",
+            "title": "Oops! Home Prices Didn’t Crash After All",
+            "snippet": "During the fourth quarter of last year, many housing experts predicted home prices were going to crash this year. Here are a few of those...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/oops-home-prices-didn-t-crash-after-all"
+          },
+          {
+            "id": 3,
+            "image": "https://static.wixstatic.com/media/2b5451_07923daa22bb44f6b95e1a79cb86ae67~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_07923daa22bb44f6b95e1a79cb86ae67~mv2.png",
+            "title": "Reasons to Own Your Own Home [INFOGRAPHIC]",
+            "snippet": "",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/reasons-to-own-your-own-home-infographic"
+          },
+          {
+            "id": 4,
+            "image": "https://static.wixstatic.com/media/2b5451_7ec8d95ef7a24684b6c5862c4ff94c33~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_7ec8d95ef7a24684b6c5862c4ff94c33~mv2.png",
+            "title": "The True Value of Homeownership",
+            "snippet": "Buying and owning your home can make a big difference in your life by bringing you joy and a sense of belonging. And with June being...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/the-true-value-of-homeownership"
+          },
+          {
+            "id": 5,
+            "image": "https://static.wixstatic.com/media/2b5451_8254a4a5703042f0b5f8049098927b0d~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_8254a4a5703042f0b5f8049098927b0d~mv2.png",
+            "title": "Keys to Success for First-Time Homebuyers",
+            "snippet": "Buying your first home is an exciting decision and a major milestone that has the power to change your life for the better. As a...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/keys-to-success-for-first-time-homebuyers"
+          },
+          {
+            "id": 6,
+            "image": "https://static.wixstatic.com/media/2b5451_7b67bb5ec0034e34b15d7dafcb926ae8~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_7b67bb5ec0034e34b15d7dafcb926ae8~mv2.png",
+            "title": "Today’s Real Estate Market: The ‘Unicorns’ Have Galloped Off",
+            "snippet": "Comparing real estate metrics from one year to another can be challenging in a normal housing market. That’s due to possible variability...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/today-s-real-estate-market-the-unicorns-have-galloped-off"
+          },
+          {
+            "id": 7,
+            "image": "https://static.wixstatic.com/media/2b5451_618dea45c0b846c796322034a5675075~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_618dea45c0b846c796322034a5675075~mv2.png",
+            "title": "Why Buyers Need an Expert Agent by Their Side",
+            "snippet": "The process of buying a home can feel a bit intimidating, even under normal circumstances. But today's market is still anything but...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/why-buyers-need-an-expert-agent-by-their-side"
+          },
+          {
+            "id": 8,
+            "image": "https://static.wixstatic.com/media/2b5451_1206c68a64d14f739d51574c41928c75~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_1206c68a64d14f739d51574c41928c75~mv2.png",
+            "title": "Ways To Overcome Affordability Challenges in Today’s Housing Market [INFOGRAPHIC]",
+            "snippet": "Some Highlights With so few homes on the market right now, widening the scope of your search to include nearby areas could help you find...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/ways-to-overcome-affordability-challenges-in-today-s-housing-market-infographic"
+          },
+          {
+            "id": 9,
+            "image": "https://static.wixstatic.com/media/2b5451_5b317a6ee9f64a3d83682b45387ccdaa~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_5b317a6ee9f64a3d83682b45387ccdaa~mv2.png",
+            "title": "Why Buying a Home Makes More Sense Than Renting Today",
+            "snippet": "Wondering if you should continue renting or if you should buy a home this year? If so, consider this. Rental affordability is still a...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/why-buying-a-home-makes-more-sense-than-renting-today"
+          },
+          {
+            "id": 10,
+            "image": "https://static.wixstatic.com/media/2b5451_3bfa2460a3d14029b2d4353919d2b83c~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_3bfa2460a3d14029b2d4353919d2b83c~mv2.png",
+            "title": "Why Today's Foreclosure Numbers Are Nothing Like 2008",
+            "snippet": "You’ve likely seen headlines about the number of foreclosures climbing in today’s housing market. That may leave you with a few...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/why-today-s-foreclosure-numbers-are-nothing-like-2008"
+          },
+          {
+            "id": 11,
+            "image": "https://static.wixstatic.com/media/2b5451_08dd3813f2bb43f19bc1561ed9c5b20b~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_08dd3813f2bb43f19bc1561ed9c5b20b~mv2.png",
+            "title": "What’s the Difference Between a Home Inspection and an Appraisal?",
+            "snippet": "If you’re planning to buy a home, an inspection is an important step in the process. It assesses the condition of the home before you...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/what-s-the-difference-between-a-home-inspection-and-an-appraisal"
+          },
+          {
+            "id": 12,
+            "image": "https://static.wixstatic.com/media/2b5451_de77f18ae6b94ca7aeee0a3e30083077~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_de77f18ae6b94ca7aeee0a3e30083077~mv2.png",
+            "title": "The Three Factors Affecting Home Affordability Today",
+            "snippet": "There’s been a lot of focus on higher mortgage rates and how they’re creating affordability challenges for today’s homebuyers. It’s true...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/the-three-factors-affecting-home-affordability-today"
+          },
+          {
+            "id": 13,
+            "image": "https://static.wixstatic.com/media/2b5451_f19c138f05c5402296a543b92d77478b~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_f19c138f05c5402296a543b92d77478b~mv2.png",
+            "title": "Why You May Want an Energy-Efficient Home [INFOGRAPHIC]",
+            "snippet": "Some Highlights Since inflation is increasing the cost of goods and services, it may make sense to look for an energy-efficient home....",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/why-you-may-want-an-energy-efficient-home-infographic"
+          },
+          {
+            "id": 14,
+            "image": "https://static.wixstatic.com/media/2b5451_c81f07dc215a4c2a8fe85c5e15d64232~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_c81f07dc215a4c2a8fe85c5e15d64232~mv2.png",
+            "title": "The Power of Pre-Approval",
+            "snippet": "If you’re buying a home this spring, today’s housing market can feel like a challenge. With so few homes on the market right now, plus...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/the-power-of-pre-approval"
+          },
+          {
+            "id": 15,
+            "image": "https://static.wixstatic.com/media/2b5451_5f0dd57d67614b3fb7f5db967b9a7d24~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_5f0dd57d67614b3fb7f5db967b9a7d24~mv2.png",
+            "title": "We’re in a Sellers’ Market. What Does That Mean?",
+            "snippet": "Even though activity in the housing market has slowed from the frenzy we saw over a year ago, today’s low supply of homes for sale is...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/we-re-in-a-sellers-market-what-does-that-mean"
+          },
+          {
+            "id": 16,
+            "image": "https://static.wixstatic.com/media/2b5451_1675f0fa595145989e8cdc6682ad0dda~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_1675f0fa595145989e8cdc6682ad0dda~mv2.png",
+            "title": "4 Key Tips for Selling Your House This Spring",
+            "snippet": "Spring has arrived, and that means more and more people are getting their homes ready to sell. But with recent shifts in real estate,...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/4-key-tips-for-selling-your-house-this-spring"
+          },
+          {
+            "id": 17,
+            "image": "https://static.wixstatic.com/media/2b5451_60db8593d83d43908910794f329e0b64~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_60db8593d83d43908910794f329e0b64~mv2.png",
+            "title": "What’s Ahead for Home Prices in 2023",
+            "snippet": "Over the past year, home prices have been a widely debated topic. Some have said we’ll see a massive drop in prices and that this could...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/what-s-ahead-for-home-prices-in-2023"
+          },
+          {
+            "id": 18,
+            "image": "https://static.wixstatic.com/media/2b5451_3fde66403ca54050b2091c427a8c711b~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_3fde66403ca54050b2091c427a8c711b~mv2.png",
+            "title": "Why Buying a Home Is a Sound Decision",
+            "snippet": "If you’re thinking about buying a home, you want to know the decision will be a good one. And for many, that means thinking about what...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/why-buying-a-home-is-a-sound-decision"
+          },
+          {
+            "id": 19,
+            "image": "https://static.wixstatic.com/media/2b5451_cdc34bbdeeab4133b5c463d16c27a5e0~mv2.png/v1/fill/w_454,h_341,fp_0.50_0.50,q_95,enc_auto/2b5451_cdc34bbdeeab4133b5c463d16c27a5e0~mv2.png",
+            "title": "How To Make Your Dream of Homeownership a Reality",
+            "snippet": "According to a recent Harris Poll survey, 8 in 10 Americans say buying a home is a priority, and 28 million Americans actually plan to...",
+            "iframe": "https://aspenwilsonrealtor.wixsite.com/aspenwilson/post/how-to-make-your-dream-of-homeownership-a-reality"
+          }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "project": "Budget Planner CLI",
+            "language": "Python, SQL Alchemy",
+            "description": "The Budget Planner CLI is a command-line tool designed to help you manage your monthly budget, track expenses, and monitor your income. It allows you to set budget categories, record expenses, and track your financial progress.",
+            "gitUrl": "https://github.com/AspenWilson/p3-project-budget-planner",
+            "videoUrl": "Wilson P3 Python CLI Project Video.mp4"
+          },
+          {
+            "id": 2,
+            "project": "US National Park Trip Builder",
+            "language": "React ",
+            "description": "The perfect tool for an outdoors-enthusiast to plan their next trip to a US National Park.",
+            "gitUrl": "https://github.com/AspenWilson/us-national-parks",
+            "videoUrl": "Flatiron SE Project, Phase 2   US National Parks Trip Builder   HD 1080p.mp4"
+          },
+          {
+            "id": 3,
+            "project": "Ohio Train Derailment Contamination",
+            "language": "Javascript",
+            "description": "Help determine where your food comes from in Ohio and if there's a risk of it having been contaminated by the recent Ohio train derailment.",
+            "gitUrl": "https://github.com/AspenWilson/phase-1-project",
+            "videoUrl": "Project Walkthrough.mp4"
+          }
+    ],
+    "openHouses": []
+  }
